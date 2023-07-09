@@ -1,10 +1,10 @@
+# Opa, Heitor Delvecchi aqui!🤘
 
+### Estudante do SENAI Informática(parceria com a Fundação  Grupo Volkswagen) no curso de Full Stack + Mobile - CO.DE School: Academia de Programação e Desenvolvimento.
 
+#### Entusiasta e curioso sobre a tecnologia e suas aplicabilidades.
 
-## Opa, Heitor Delvecchi aqui!🤘
-
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/heitor-delvecchi-761baaba/)     
-[![Music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12146289929)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/heitor-delvecchi-761baaba/) [![Music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12146289929)
 
 
 
