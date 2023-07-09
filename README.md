@@ -9,12 +9,15 @@
 
 
 - 🔭 Atualmente procuro trabalho na área de Desenvolvedor Web
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Começando a parte de JavaScript da trilha de aprendizado
 - 😄 Pronomes: ele/dele
 
-![Delvecchi GitHub stats](https://github-readme-stats.vercel.app/api?username=delvecchi&show_icons=true&theme=tokyonight&count_private=true)
+<div style="display: inline-flex">
+<img align="center" alt="html5" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRjcm01YmJqZ25tcHczNWtsang2NGRmeHR2dWx5dDJmOHIwM3VubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="200" frameBorder="0" class="giphy-embed" allowFullScreen />
+<img align="center" alt="html5" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ28zbzU2cmI2MTVqMW9qeXc1bGpyaGNqMnJjbXd4aTFnemFjcTlzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif" width="400" height="200" frameBorder="0" class="giphy-embed" allowFullScreen />
+</div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delvecchi&layout=compact&theme=tokyonight)
+![Delvecchi GitHub stats](https://github-readme-stats.vercel.app/api?username=delvecchi&show_icons=true&theme=tokyonight&count_private=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delvecchi&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
