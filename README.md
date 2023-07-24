@@ -9,7 +9,7 @@
 
 
 - 🔭 Atualmente procuro trabalho na área de Desenvolvedor Web
-- 🌱 Começando a parte de JavaScript da trilha de aprendizado
+- 🌱 Começando a parte de JavaScript/TypeScript da trilha de aprendizado
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline-flex">
