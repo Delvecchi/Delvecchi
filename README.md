@@ -1,4 +1,4 @@
-# Opa, Heitor Delvecchi aqui!🤘
+# Opa, Heitor Delvecchi aqui! 🤘
 
 ### Estudante do SENAI Informática(parceria com a Fundação  Grupo Volkswagen) no curso de Full Stack + Mobile - CO.DE School: Academia de Programação e Desenvolvimento.
 
