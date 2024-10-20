@@ -1,6 +1,6 @@
 # Opa, Heitor Delvecchi aqui! 🤘
 
-### Estudante do SENAI Informática(parceria com a Fundação  Grupo Volkswagen) no curso de Full Stack + Mobile - CO.DE School: Academia de Programação e Desenvolvimento.<br> E do curso Desenvolvimento de Software Multiplataforma na Fatec Itaquera - Prof. Miguel Reale.
+### Estudante do curso Desenvolvimento de Software Multiplataforma na Fatec Itaquera - Prof. Miguel Reale.
 
 #### Entusiasta e curioso sobre a tecnologia e suas aplicabilidades.
 
@@ -9,7 +9,7 @@
 
 
 - 🔭 Atualmente procuro trabalho na área de Desenvolvedor Web
-- 🌱 Começando a parte de Java/JavaScript/TypeScript/React da trilha de aprendizado
+- 🌱 Começando a parte de Java/JavaScript/TypeScript/React/Python/NOSQL da trilha de aprendizado
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline-flex">
